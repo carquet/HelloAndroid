@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="phonenumber">650-555-555</string>
+    <string name="address">Mountain View, CA 94043</string>
+    <string name="link">www.udacity.com</string>
+    <string name="buttontext"><a href="https://www.udacity.com/">Learn More</a></string>
+</resources>
+
