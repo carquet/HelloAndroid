@@ -4,5 +4,7 @@
     <string name="address">Mountain View, CA 94043</string>
     <string name="link">www.udacity.com</string>
     <string name="buttontext"><a href="https://www.udacity.com/">Learn More</a></string>
+    <string name="information">It only takes 10 minutes! There is a single application for all scholarships. We\'ll help you decide which path is right for you.
+        It's absolutely fine if you don’t know the answers to every question or haven't taken any programming classes before. Lorem Ipsum is simply dummy text of the printing and typesetting industry. </string>
 </resources>
 
